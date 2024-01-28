@@ -4,18 +4,15 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=neOliT for Realme Monet(RMX2020/RMX2027)
+kernel.string=KernelSU_Builder_Nashc for Realme 8 (nashc) (version_of_auto_build_you_flash)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=rmx2020
-device.name2=RMX2020
-device.name3=RMX2027
-device.name4=RMX2191
-device.name5=RMX3171
-device.name6=RMX2193
+device.name1=RMX3085L1
+device.name2=RMX3085
+device.name3=nashc
 supported.versions=
 supported.patchlevels=
 '; } # end properties
